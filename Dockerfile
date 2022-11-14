@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="d95f3330-1871-47a7-a38c-0acffc8f7e24"
+ARG AUUID="0bbd0c5f-f60e-430d-a8f6-4270f910d75d"
 ARG CADDYIndexPage="https://github.com/sandhikagalih/simple-landing-page/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
